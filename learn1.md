@@ -71,6 +71,6 @@ ___
 <!-- for github --->
 * [x] Most of the basic commands rememberd
 * [x] Very simple
-* [] Done ?
+* [ ] Done ?
 
 <!-- End -->
